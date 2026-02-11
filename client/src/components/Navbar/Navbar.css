@@ -1,0 +1,5 @@
+
+#route-name:hover{
+    border-bottom: 2px solid oklch(78.9% 0.154 211.53);
+    transition: all 0.3s ease-in;
+}
