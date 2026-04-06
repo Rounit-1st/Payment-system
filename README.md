@@ -1,4 +1,4 @@
-# Payment Processing Microservices Architecture
+# Payment System (Microservices)
 
 ## Overview
 
